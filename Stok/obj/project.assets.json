@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/didaryilmaz/Documents/GitHub/MarketStokYonetimi/MarketStokYonetimi.csproj",
-      "projectName": "MarketStokYonetimi",
-      "projectPath": "/Users/didaryilmaz/Documents/GitHub/MarketStokYonetimi/MarketStokYonetimi.csproj",
+      "projectUniqueName": "/Users/didaryilmaz/Documents/GitHub/MarketStokYonetimi/Stok/Stok.csproj",
+      "projectName": "Stok",
+      "projectPath": "/Users/didaryilmaz/Documents/GitHub/MarketStokYonetimi/Stok/Stok.csproj",
       "packagesPath": "/Users/didaryilmaz/.nuget/packages/",
-      "outputPath": "/Users/didaryilmaz/Documents/GitHub/MarketStokYonetimi/obj/",
+      "outputPath": "/Users/didaryilmaz/Documents/GitHub/MarketStokYonetimi/Stok/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/didaryilmaz/.config/NuGet/NuGet.Config"

@@ -1,0 +1,13 @@
+/Users/didaryilmaz/Documents/GitHub/MarketStokYonetimi/Stok/bin/Debug/netcoreapp3.1/Stok.deps.json
+/Users/didaryilmaz/Documents/GitHub/MarketStokYonetimi/Stok/bin/Debug/netcoreapp3.1/Stok.runtimeconfig.json
+/Users/didaryilmaz/Documents/GitHub/MarketStokYonetimi/Stok/bin/Debug/netcoreapp3.1/Stok.runtimeconfig.dev.json
+/Users/didaryilmaz/Documents/GitHub/MarketStokYonetimi/Stok/bin/Debug/netcoreapp3.1/Stok.dll
+/Users/didaryilmaz/Documents/GitHub/MarketStokYonetimi/Stok/bin/Debug/netcoreapp3.1/Stok.pdb
+/Users/didaryilmaz/Documents/GitHub/MarketStokYonetimi/Stok/obj/Debug/netcoreapp3.1/Stok.csproj.AssemblyReference.cache
+/Users/didaryilmaz/Documents/GitHub/MarketStokYonetimi/Stok/obj/Debug/netcoreapp3.1/Stok.GeneratedMSBuildEditorConfig.editorconfig
+/Users/didaryilmaz/Documents/GitHub/MarketStokYonetimi/Stok/obj/Debug/netcoreapp3.1/Stok.AssemblyInfoInputs.cache
+/Users/didaryilmaz/Documents/GitHub/MarketStokYonetimi/Stok/obj/Debug/netcoreapp3.1/Stok.AssemblyInfo.cs
+/Users/didaryilmaz/Documents/GitHub/MarketStokYonetimi/Stok/obj/Debug/netcoreapp3.1/Stok.csproj.CoreCompileInputs.cache
+/Users/didaryilmaz/Documents/GitHub/MarketStokYonetimi/Stok/obj/Debug/netcoreapp3.1/Stok.dll
+/Users/didaryilmaz/Documents/GitHub/MarketStokYonetimi/Stok/obj/Debug/netcoreapp3.1/Stok.pdb
+/Users/didaryilmaz/Documents/GitHub/MarketStokYonetimi/Stok/obj/Debug/netcoreapp3.1/Stok.genruntimeconfig.cache

@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{E486602B-1718-4D33-B65B-A912B016E077}|Default">
+  <MonoDevelop.Ide.ItemProperties.Stok PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Personel.cs" Line="9" Column="1" />
+      <File FileName="TamZamanliPersonel.cs" Line="27" Column="14" />
+      <File FileName="YariZamanliPersonel.cs" />
+      <File FileName="Program.cs" Line="18" Column="1" />
+      <File FileName="Stok/Program.cs" Line="32" Column="14" />
+      <File FileName="PersonelIslemleri.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MarketStokYonetimi" expanded="True">
+            <Node name="MarketStokYonetimi" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="Stok" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MarketStokYonetimi PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>Urunler/Product.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

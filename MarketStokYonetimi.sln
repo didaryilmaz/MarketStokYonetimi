@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.25
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarketStokYonetimi", "MarketStokYonetimi.csproj", "{61EB351D-7331-4B6B-B9B7-A4555FE0F1E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stok", "Stok\Stok.csproj", "{E486602B-1718-4D33-B65B-A912B016E077}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61EB351D-7331-4B6B-B9B7-A4555FE0F1E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61EB351D-7331-4B6B-B9B7-A4555FE0F1E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61EB351D-7331-4B6B-B9B7-A4555FE0F1E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61EB351D-7331-4B6B-B9B7-A4555FE0F1E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E486602B-1718-4D33-B65B-A912B016E077}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E486602B-1718-4D33-B65B-A912B016E077}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E486602B-1718-4D33-B65B-A912B016E077}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E486602B-1718-4D33-B65B-A912B016E077}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D674E07B-5588-492B-B2D6-0D62FBA88CB0}
+	EndGlobalSection
+EndGlobal

@@ -3,11 +3,11 @@ namespace MarketStokYonetimi
 {
     public abstract class Personel
     {
-        public string isim { get; set; }
-        public string soyIsim { get; set; }
-        public int satisSayisi { get; set; }
+        public string Isim { get; set; }
+        public string SoyIsim { get; set; }
+        public int SatisSayisi { get; set; }
 
-        public abstract double maas { get; }
+        public abstract double Maas { get; }
         public abstract void PersonelBilgi();
 
     }

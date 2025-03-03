@@ -3,33 +3,33 @@ namespace MarketStokYonetimi
 {
     public class TamZamanliPersonel : Personel
     {
-        public double tabanMaas { get; set; }
+        public double TabanMaas { get; set; }
 
-        public override double maas
+        public override double Maas
         {
             get
             {
                 double prim;
 
-                if (satisSayisi < 100000)
+                if (SatisSayisi < 100000)
                 {
-                    prim = satisSayisi * 0.01;
+                    prim = SatisSayisi * 0.01;
                 }
-                else if (satisSayisi < 200000 && satisSayisi > 100000)
+                else if (SatisSayisi < 200000 && SatisSayisi > 100000)
                 {
-                    prim = satisSayisi * 0.03;
+                    prim = SatisSayisi * 0.03;
                 }
                 else
                 {
-                    prim = satisSayisi * 0.05;
+                    prim = SatisSayisi * 0.05;
                 }
-                return tabanMaas + prim;
+                return TabanMaas + prim;
             }
         }
 
         public override void PersonelBilgi()
         {
-            Console.WriteLine(isim + " " + soyIsim + " " + maas);
+            Console.WriteLine(Isim + " " + SoyIsim + " " + Maas);
         }
     }
 }
